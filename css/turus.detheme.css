@@ -732,6 +732,7 @@ BUTTON
 }
 
 .hero-description {
+  margin-top:40px;
   margin-right: auto;
   margin-left: 0px;
   -webkit-align-self: center;
